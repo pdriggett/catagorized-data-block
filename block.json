@@ -1,0 +1,16 @@
+{
+	"apiVersion": 2,
+	"name": "create-block/categorized-data-block",
+	"version": "0.1.0",
+	"title": "Categorized Data Block",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Categorized Data displays information from a database stored by the Categorized Data plugin",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "categorized-data-block",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
